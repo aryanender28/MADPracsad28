@@ -9,6 +9,19 @@
     tools:context=".pr5Activity">
 
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-black"
+            android:text="Linear Layout Vertical" />
+    </LinearLayout>
+
     <TextView
         android:id="@+id/heading"
         android:layout_width="wrap_content"
